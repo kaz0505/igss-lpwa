@@ -24,7 +24,7 @@ $serial_bps = 115200
 # if you are using clould server, use ip address
 #
 # $server_url = "http://localhost:4567/"
-# $server_url = "http://igss.ddns.net:4567/"
+$server_url = "http://igss.ddns.net:4567/"
 
 #
 # API key
